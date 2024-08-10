@@ -7,7 +7,7 @@ This project aims to analyze the Zomato dataset using SQL to derive insights abo
 - Descriptive Analysis: Generate summary statistics to get an overview of the data.
 - Insights and Trends: Analyze the data to uncover insights about popular cuisines, average ratings, cost distribution, and more.
 - Geographical Analysis: Examine the distribution of restaurants across different locations and their characteristics.
-## Tools and Technologies
+## Tools and Technologies Used:
 1. SQL
 2. Problem Solving
 3. Business Analysis
