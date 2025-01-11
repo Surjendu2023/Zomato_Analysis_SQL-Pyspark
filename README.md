@@ -1,4 +1,4 @@
-# Zomato_Analysis_SQL
+# Zomato_Analysis_SQL+Pyspark
 ## Project Overview
 This project aims to analyze the Zomato dataset using SQL to derive insights about restaurants, cuisines, and customer preferences. The Zomato dataset provides a comprehensive collection of information about restaurants, including details such as ratings, locations, cuisines, cost, and more. By leveraging SQL, we can efficiently query, analyze, and visualize this data to uncover patterns and trends.
 ## Objectives
