@@ -9,8 +9,10 @@ This project aims to analyze the Zomato dataset using SQL to derive insights abo
 - Geographical Analysis: Examine the distribution of restaurants across different locations and their characteristics.
 ## Tools and Technologies Used:
 1. SQL
-2. Problem Solving
-3. Business Analysis
+2. Pyspark
+3. DataBricks
+5. Problem Solving
+6. Business Analysis
 ## Business Impact
 The insights derived from the Zomato analysis can significantly influence business strategies and decision-making processes for restaurant owners, food industry analysts, and marketing professionals. Below are some key areas where the analysis can have a profound impact:
 1. Enhanced Customer Understanding
